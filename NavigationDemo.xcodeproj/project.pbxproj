@@ -18,6 +18,12 @@
 		18AC40D01F499A68009A0C39 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18AC40CE1F499A68009A0C39 /* RootViewController.xib */; };
 		18AC40D41F49ADBC009A0C39 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18AC40D21F49ADBC009A0C39 /* SecondViewController.m */; };
 		18AC40D51F49ADBC009A0C39 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18AC40D31F49ADBC009A0C39 /* SecondViewController.xib */; };
+		18F9B2A81F4AFDC50007AAA1 /* BookListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F9B2A61F4AFDC50007AAA1 /* BookListViewController.m */; };
+		18F9B2A91F4AFDC50007AAA1 /* BookListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18F9B2A71F4AFDC50007AAA1 /* BookListViewController.xib */; };
+		18F9B2AD1F4B05A70007AAA1 /* DetailListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F9B2AB1F4B05A70007AAA1 /* DetailListViewController.m */; };
+		18F9B2AE1F4B05A70007AAA1 /* DetailListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18F9B2AC1F4B05A70007AAA1 /* DetailListViewController.xib */; };
+		18F9B2B21F4B0F800007AAA1 /* ThridViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18F9B2B01F4B0F800007AAA1 /* ThridViewController.m */; };
+		18F9B2B31F4B0F800007AAA1 /* ThridViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18F9B2B11F4B0F800007AAA1 /* ThridViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +64,15 @@
 		18AC40D11F49ADBC009A0C39 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		18AC40D21F49ADBC009A0C39 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		18AC40D31F49ADBC009A0C39 /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		18F9B2A51F4AFDC50007AAA1 /* BookListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookListViewController.h; sourceTree = "<group>"; };
+		18F9B2A61F4AFDC50007AAA1 /* BookListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookListViewController.m; sourceTree = "<group>"; };
+		18F9B2A71F4AFDC50007AAA1 /* BookListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BookListViewController.xib; sourceTree = "<group>"; };
+		18F9B2AA1F4B05A70007AAA1 /* DetailListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailListViewController.h; sourceTree = "<group>"; };
+		18F9B2AB1F4B05A70007AAA1 /* DetailListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailListViewController.m; sourceTree = "<group>"; };
+		18F9B2AC1F4B05A70007AAA1 /* DetailListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailListViewController.xib; sourceTree = "<group>"; };
+		18F9B2AF1F4B0F800007AAA1 /* ThridViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThridViewController.h; sourceTree = "<group>"; };
+		18F9B2B01F4B0F800007AAA1 /* ThridViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThridViewController.m; sourceTree = "<group>"; };
+		18F9B2B11F4B0F800007AAA1 /* ThridViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ThridViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,14 +128,23 @@
 				18AC40A21F49996A009A0C39 /* Main.storyboard */,
 				18AC40CC1F499A68009A0C39 /* RootViewController.h */,
 				18AC40CD1F499A68009A0C39 /* RootViewController.m */,
+				18F9B2AA1F4B05A70007AAA1 /* DetailListViewController.h */,
+				18F9B2AB1F4B05A70007AAA1 /* DetailListViewController.m */,
+				18F9B2AC1F4B05A70007AAA1 /* DetailListViewController.xib */,
 				18AC40D11F49ADBC009A0C39 /* SecondViewController.h */,
 				18AC40D21F49ADBC009A0C39 /* SecondViewController.m */,
+				18F9B2AF1F4B0F800007AAA1 /* ThridViewController.h */,
+				18F9B2B01F4B0F800007AAA1 /* ThridViewController.m */,
+				18F9B2B11F4B0F800007AAA1 /* ThridViewController.xib */,
 				18AC40D31F49ADBC009A0C39 /* SecondViewController.xib */,
 				18AC40CE1F499A68009A0C39 /* RootViewController.xib */,
 				18AC40A51F49996A009A0C39 /* Assets.xcassets */,
 				18AC40A71F49996A009A0C39 /* LaunchScreen.storyboard */,
 				18AC40AA1F49996A009A0C39 /* Info.plist */,
 				18AC40991F49996A009A0C39 /* Supporting Files */,
+				18F9B2A51F4AFDC50007AAA1 /* BookListViewController.h */,
+				18F9B2A61F4AFDC50007AAA1 /* BookListViewController.m */,
+				18F9B2A71F4AFDC50007AAA1 /* BookListViewController.xib */,
 			);
 			path = NavigationDemo;
 			sourceTree = "<group>";
@@ -260,11 +284,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18F9B2AE1F4B05A70007AAA1 /* DetailListViewController.xib in Resources */,
 				18AC40A91F49996A009A0C39 /* LaunchScreen.storyboard in Resources */,
+				18F9B2B31F4B0F800007AAA1 /* ThridViewController.xib in Resources */,
 				18AC40A61F49996A009A0C39 /* Assets.xcassets in Resources */,
 				18AC40D01F499A68009A0C39 /* RootViewController.xib in Resources */,
 				18AC40A41F49996A009A0C39 /* Main.storyboard in Resources */,
 				18AC40D51F49ADBC009A0C39 /* SecondViewController.xib in Resources */,
+				18F9B2A91F4AFDC50007AAA1 /* BookListViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -292,6 +319,9 @@
 				18AC40D41F49ADBC009A0C39 /* SecondViewController.m in Sources */,
 				18AC409E1F49996A009A0C39 /* AppDelegate.m in Sources */,
 				18AC40CF1F499A68009A0C39 /* RootViewController.m in Sources */,
+				18F9B2AD1F4B05A70007AAA1 /* DetailListViewController.m in Sources */,
+				18F9B2B21F4B0F800007AAA1 /* ThridViewController.m in Sources */,
+				18F9B2A81F4AFDC50007AAA1 /* BookListViewController.m in Sources */,
 				18AC409B1F49996A009A0C39 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -532,6 +562,7 @@
 				18AC40C51F49996A009A0C39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18AC40C61F49996A009A0C39 /* Build configuration list for PBXNativeTarget "NavigationDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +571,7 @@
 				18AC40C81F49996A009A0C39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18AC40C91F49996A009A0C39 /* Build configuration list for PBXNativeTarget "NavigationDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -548,6 +580,7 @@
 				18AC40CB1F49996A009A0C39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
